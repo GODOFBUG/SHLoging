@@ -1,0 +1,27 @@
+{
+  "name": "SHLoging",
+  "version": "0.1.0",
+  "summary": "A short description of SHLoging.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GODOFBUG/SHLoging",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GODOFBUG": "739136841@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GODOFBUG/SHLoging.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHLoging/Classes/**/*",
+  "dependencies": {
+    "SHNetworking": [
+      "~> 0.1.0"
+    ]
+  }
+}
